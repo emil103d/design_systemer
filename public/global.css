@@ -1,0 +1,26 @@
+:root {
+  /* button */
+  --default-color: #1e271e;
+  --primary-color: #4d2aee;
+  --secondary-color: #dc36b3;
+  --accent-color: #67cabe;
+  --ghost-color: #1e271e;
+  --link-color: #4d2aee;
+
+  /* Font */
+  --primary-font-color: white;
+}
+
+html {
+  font-family: sans-serif;
+}
+
+/* * {
+  margin: 0;
+} */
+
+/* body {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+} */
